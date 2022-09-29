@@ -1,0 +1,181 @@
+// Vitest Snapshot v1
+
+exports[`IdPage > should match snapshot  1`] = `
+{
+  "component": U5Bidu5D$ {
+    "$$": {
+      "after_update": [],
+      "before_update": [],
+      "bound": {},
+      "callbacks": {},
+      "context": Map {},
+      "ctx": [
+        {
+          "height": "20",
+          "name": "mewtwo",
+          "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150",
+          },
+          "types": [
+            {
+              "type": {
+                "name": "psychic",
+              },
+            },
+          ],
+          "weight": "1220",
+        },
+        "psychic",
+        [Function],
+      ],
+      "dirty": [
+        -1,
+      ],
+      "fragment": {
+        "c": [Function],
+        "d": [Function],
+        "i": [Function],
+        "l": [Function],
+        "m": [Function],
+        "o": [Function],
+        "p": [Function],
+      },
+      "not_equal": [Function],
+      "on_destroy": [
+        [Function],
+      ],
+      "on_disconnect": [],
+      "on_mount": [],
+      "props": {
+        "pokemon": 0,
+      },
+      "root": <div>
+         
+        <div
+          class="flex flex-col items-center"
+        >
+          <h1
+            class="text-4xl text-center my-8 uppercase"
+          >
+            mewtwo
+          </h1>
+           
+          <p>
+            Type: 
+            <strong>
+              psychic
+            </strong>
+             | Height: 
+            <strong>
+              20
+            </strong>
+            
+		| Weight: 
+            <strong>
+              1220
+            </strong>
+          </p>
+           
+          <img
+            alt="mewtwo"
+            class="card-image"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150"
+          />
+        </div>
+      </div>,
+      "skip_bound": false,
+      "update": [Function],
+    },
+    "$$set": [Function],
+    "$capture_state": [Function],
+    "$inject_state": [Function],
+  },
+  "container": <body>
+    <div>
+       
+      <div
+        class="flex flex-col items-center"
+      >
+        <h1
+          class="text-4xl text-center my-8 uppercase"
+        >
+          mewtwo
+        </h1>
+         
+        <p>
+          Type: 
+          <strong>
+            psychic
+          </strong>
+           | Height: 
+          <strong>
+            20
+          </strong>
+          
+		| Weight: 
+          <strong>
+            1220
+          </strong>
+        </p>
+         
+        <img
+          alt="mewtwo"
+          class="card-image"
+          src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150"
+        />
+      </div>
+    </div>
+  </body>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
